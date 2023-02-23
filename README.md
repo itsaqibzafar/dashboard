@@ -9,7 +9,7 @@
 
   This dashboard is fully responsive for all devices, <br/> Built using HTML, CSS, and JavaScript.
 
-  <a href="#"><strong>➥ Live Demo</strong></a>
+  <a href="https://itsaqibzafar.github.io/dashboard/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
